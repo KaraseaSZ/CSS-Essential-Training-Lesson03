@@ -1,0 +1,62 @@
+
+/* Global Styles */
+
+body{
+    color:darkblue;
+}
+
+
+img {
+    width: 350px;
+}
+
+a{
+    color:darkmagenta;
+}
+a:hover{
+    text-decoration: none;
+}
+
+/* Prolfile */
+
+header{
+    background: #DDF2EB;
+}
+
+
+/* Projects */
+
+.projects{
+    background: #D3CDD7;
+}
+.projects a {
+    color:deepskyblue;
+}
+
+.projects .btn{
+    color:azure;
+    background:darkcyan;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.projects a:hover {
+    background: rgb(0,206 ,209 ,80%);
+}
+
+/* Work Experience  */
+
+.work-exp{
+    background: #BC9CB0;
+}
+
+
+/* Education  */
+
+
+/* Contact Info */
+
+footer{
+    background: #88958D;
+    color:white;
+}
